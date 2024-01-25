@@ -2,6 +2,7 @@
 clc;
 clear;
 close all
+%%%%%%%%%%非官方的古典风格地方
 %%
 rr=linspace(4.8,9.3,151);
 sptsig_convoluted1=zeros(151,301);
