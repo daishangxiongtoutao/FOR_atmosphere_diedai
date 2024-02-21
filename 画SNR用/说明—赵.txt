@@ -3,3 +3,19 @@
 用来生成不同高度（许大论文）回波光子数下的噪声光谱
 get_mo_width.m
 可以评估不同波长下不同海拔高度（即不同温压条件下的整体线宽）基于Tenti-S6模型
+%% 提交
+>> !git add .
+>> !git commit . -m"新内容"
+[main a6bae24] 新内容
+ 4 files changed, 837 insertions(+), 1 deletion(-)
+ create mode 100644 "\347\224\273SNR\347\224\250/get_mo_width.m"
+ create mode 100644 "\347\224\273SNR\347\224\250/t_dataCirrusFine.txt"
+ create mode 100644 "\347\224\273SNR\347\224\250/t_freq_array.txt"
+>> ! git pull
+Already up to date.
+>> !git push
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/daishangxiongtoutao/FOR_atmosphere_diedai.git        
+To https://github.com/daishangxiongtoutao/-.git
+   b7e072c..a6bae24  main -> main
+%%
